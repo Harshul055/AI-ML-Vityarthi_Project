@@ -28,31 +28,20 @@ The system uses historical stock data, performs feature engineering, trains mode
 ---
 
 ## 📂 Project Structure
-
+```
 stock-ml-project/
 │
-
 ├── src/
-
 │ ├── data_loader.py
-
-
 │ ├── features.py
-
 │ ├── train.py
-
 │ ├── backtest.py
 │
-
 ├── models/
-
 ├── app.py
-
 ├── requirements.txt
-
 ├── README.md
-
 └── report.pdf
-
+```
 
 
